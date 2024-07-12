@@ -1,0 +1,24 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
